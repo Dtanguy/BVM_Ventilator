@@ -16,3 +16,6 @@ with @Jeremy Stenseth
 Faire le lien avec sa dropbox :
 https://docs.google.com/document/d/1rJQrtqe8VWtTHUaokMHVOy0iEXfY4r5PlcTJsy20VlY/edit?ts=5e723208#heading=h.dsj8pxsxlvwp
 https://www.dropbox.com/home/Wiper%20Motor%20Venilator
+
+A regarder en FR
+https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19
