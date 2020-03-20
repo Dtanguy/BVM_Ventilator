@@ -31,20 +31,23 @@ The other version that is still simple but more useful with access to better tec
 
 # Usefull link:
 
-Open Source COVID19 Medical Supplies - Facebook Group
+Open Source COVID19 Medical Supplies - Facebook Group:
 https://www.facebook.com/groups/670932227050506/
 
-Code Life Ventilator Challenge
+Code Life Ventilator Challenge:
 https://www.agorize.com/en/challenges/code-life-challenge?fbclid=IwAR2WHeSUHLABOHlOQqzCnGDx2FYjbFYc6KYndAERCJJwiVTUDkBaLVvJsqA
 
 
-Parallal project from Trevor Smale (we take inspiration from his sketch "CONCEPT_2_MECH", illustrated by David O’Reilly).
+Parallal project from Trevor Smale (we take inspiration from his sketch "CONCEPT_2_MECH", illustrated by David O’Reilly):
 https://gitlab.com/TrevorSmale/OSV-OpenLung
 
 
 # Contact us:
+
 stensethjeremy@gmail.com 	(Version One)
+
 tanguy.wells@gmail.com	    (Version Two - Hardware)
+
 ma7.g@hotmail.fr	    (Version Two - Software)
 
 # Project Dropbox:
