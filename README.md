@@ -45,7 +45,7 @@ https://gitlab.com/TrevorSmale/OSV-OpenLung
 # Contact us:
 stensethjeremy@gmail.com 	(Version One)
 tanguy.wells@gmail.com	    (Version Two - Hardware)
-tanguy.wells@gmail.com	    (Version Two - Software)
+ma7.g@hotmail.fr	    (Version Two - Software)
 
 # Project Dropbox:
 Description: https://docs.google.com/document/d/1rJQrtqe8VWtTHUaokMHVOy0iEXfY4r5PlcTJsy20VlY/edit?ts=5e723208#heading=h.dsj8pxsxlvwp
