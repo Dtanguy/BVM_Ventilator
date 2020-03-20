@@ -6,15 +6,21 @@ Our goal is to make two versions:
 One version that is very low tech for remote locations, resource deprived, and or emergency situations.
 The other version that is still simple but more useful with access to better tech.
 
-#Version 1:
-##Parts (BVM_Ventilator/3D/v1):
+# Version 1:
+
+![img_v1](https://raw.githubusercontent.com/Dtanguy/BVM_Ventilator/master/img/protov1-img2.jpg)
+
+## Parts (BVM_Ventilator/3D/v1):
 - 2x base_plate
 - 1x motor_support_windows_lift OR motor_support_wiper OR any modified version to fit your motor
 - 1x motor_head
 - 1x moving_arm
 
-#Version 2:
-##Parts (BVM_Ventilator/3D/v2):
+# Version 2:
+
+![img_v2](https://raw.githubusercontent.com/Dtanguy/BVM_Ventilator/master/img/protov2-img1.png)
+
+## Parts (BVM_Ventilator/3D/v2):
 - 2x base_plate
 - 1x motor_support_windows_lift OR motor_support_wiper OR any modified version to fit your motor
 - 2x moving_arm_1
