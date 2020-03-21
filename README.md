@@ -38,6 +38,7 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 
 ## Parts suplementaire
 - 1x motor (from car windows lift or wiper)
+- 1x BVM bag (you can find information about BVM bag in BVM_Ventilator/docs)
 - 4x 7x22mm bearing (the one from most of rollers)
 - 2x M5 rod screw 120mm
 - 1x M5 rod screw 100mm
