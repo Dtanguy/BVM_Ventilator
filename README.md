@@ -11,6 +11,10 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 - 1x moving_arm
 - 1x bushing
 
+## Additional Parts 
+- 1x motor (from car windows lift or wiper)
+- 1x BVM bag (you can find information about BVM bag in BVM_Ventilator/docs)
+
 # Version 2:
 
 ![img_v2](https://raw.githubusercontent.com/Dtanguy/BVM_Ventilator/master/img/protov2-img1.png)
@@ -36,7 +40,7 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 - 1x bearing_support
 - 1x motor_head
 
-## Parts supplementaire
+## Additional Parts 
 - 1x motor (from car windows lift or wiper)
 - 1x BVM bag (you can find information about BVM bag in BVM_Ventilator/docs)
 - 4x 7x22mm bearing (the one from most of rollers)
