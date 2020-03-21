@@ -15,14 +15,35 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 
 ![img_v2](https://raw.githubusercontent.com/Dtanguy/BVM_Ventilator/master/img/protov2-img1.png)
 
-## Parts (BVM_Ventilator/3D/v2):
-- 2x base_plate
+## Parts for 3D print (BVM_Ventilator/3D/v2/STL):
+- 1x base_plate_p1
+- 1x base_plate_p2
+- 1x base_plate_p1_sym
+- 1x base_plate_p2_sym
+- 2x foot
 - 1x motor_support_windows_lift OR motor_support_wiper OR any modified version to fit your motor
-- 2x moving_arm_1
-- 1x moving_arm_2
-- 1x motor_head
 - 1x bearing_support
+- 2x moving_arm_A_p1
+- 2x moving_arm_A_p2
+- 1x moving_arm_B
+- 1x motor_head
 
+## Parts for lazer cutting / CNC (BVM_Ventilator/3D/v2/DXF):
+- 2x base_plate_full
+- 2x moving_arm_A
+- 1x moving_arm_B
+- 1x motor_support_windows_lift OR motor_support_wiper OR any modified version to fit your motor
+- 1x bearing_support
+- 1x motor_head
+
+## Parts suplementaire
+- 1x motor (from car windows lift or wiper)
+- 4x 7x22mm bearing (the one from most of rollers)
+- 2x M5 rod screw 120mm
+- 1x M5 rod screw 100mm
+- 1x M5 rod screw 40mm
+- 20x M5 bold
+- 8x M5 ring
 
 # Usefull link:
 
@@ -42,15 +63,10 @@ https://gitlab.com/TrevorSmale/OSV-OpenLung
 # Contact us:
 stensethjeremy@gmail.com 	(Version One)
 
-tanguy.wells@gmail.com	    (Version Two - Hardware)
+tanguy.wells@gmail.com	    (Version Two)
 
-ma7.g@hotmail.fr	    (Version Two - Software)
 
 # Project Dropbox:
 Description: https://docs.google.com/document/d/1rJQrtqe8VWtTHUaokMHVOy0iEXfY4r5PlcTJsy20VlY/edit?ts=5e723208#heading=h.dsj8pxsxlvwp
 
 Files: https://www.dropbox.com/home/Wiper%20Motor%20Venilator
-
-# Notes for us [To REMOVE]:
-
-https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19
