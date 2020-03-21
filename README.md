@@ -28,7 +28,7 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 - 1x moving_arm_B
 - 1x motor_head
 
-## Parts for lazer cutting / CNC (BVM_Ventilator/3D/v2/DXF):
+## Parts for laser cutting / CNC (BVM_Ventilator/3D/v2/DXF):
 - 2x base_plate_full
 - 2x moving_arm_A
 - 1x moving_arm_B
@@ -36,7 +36,7 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 - 1x bearing_support
 - 1x motor_head
 
-## Parts suplementaire
+## Parts supplementaire
 - 1x motor (from car windows lift or wiper)
 - 1x BVM bag (you can find information about BVM bag in BVM_Ventilator/docs)
 - 4x 7x22mm bearing (the one from most of rollers)
@@ -46,7 +46,7 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 - 20x M5 bold
 - 8x M5 ring
 
-# Usefull link:
+# Useful link:
 
 Open Source COVID19 Medical Supplies - Facebook Group:
 
@@ -56,7 +56,7 @@ Code Life Ventilator Challenge:
 
 https://www.agorize.com/en/challenges/code-life-challenge?fbclid=IwAR2WHeSUHLABOHlOQqzCnGDx2FYjbFYc6KYndAERCJJwiVTUDkBaLVvJsqA
 
-Parallal project from Trevor Smale (we take inspiration from his sketch "CONCEPT_2_MECH", illustrated by David O’Reilly):
+Parallel project from Trevor Smale (we take inspiration from his sketch "CONCEPT_2_MECH", illustrated by David O’Reilly):
 
 https://gitlab.com/TrevorSmale/OSV-OpenLung
 
