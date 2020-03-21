@@ -1,5 +1,5 @@
 # BVM_Ventilator
-Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medical Supplies and Code Life Ventilator Challenge. Our goal is to make two versions, one that is very low tech for remote locations, resource deprived, and or emergency situations. The other version that is still simple but more useful with access to better tech.
+Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medical Supplies and Code Life Ventilator Challenge. Our goal is to make two versions, one that is very low tech for remote locations, resource deprived, or emergency situations. The other version that is still simple but more useful with access to better tech.
 
 # Version 1:
 
@@ -7,9 +7,9 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 
 ## Parts (BVM_Ventilator/3D/v1):
 - 2x base_plate
-- 1x motor_support_windows_lift OR motor_support_wiper OR any modified version to fit your motor
 - 1x motor_head
 - 1x moving_arm
+- 1x bushing
 
 # Version 2:
 
