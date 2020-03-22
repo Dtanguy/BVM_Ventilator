@@ -20,7 +20,7 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 # Version 2:
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/dtanguy/BVM_Ventilator/master/img/protov2-img2.gif" width="70%">
+	<img src="https://raw.githubusercontent.com/dtanguy/BVM_Ventilator/master/img/protov2-img2.gif" width="60%">
 </p>
 
 ## Parts for 3D print (BVM_Ventilator/3D/v2/STL):
