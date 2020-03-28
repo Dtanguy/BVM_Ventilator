@@ -30,13 +30,13 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 - 1x base_plate_p2
 - 1x base_plate_p1_sym
 - 1x base_plate_p2_sym
-- 2x foot
+- 2x link_25x100
 - 1x motor_support_windows_lift OR motor_support_wiper OR any modified version to fit your motor
 - 1x bearing_support
-- 2x moving_arm_A_p1
-- 2x moving_arm_A_p2
+- 1x moving_arm_A
 - 1x moving_arm_B
 - 1x motor_head
+- 1x bearing_head
 
 ## Parts for laser cutting / CNC (BVM_Ventilator/3D/v2/DXF):
 - 2x base_plate_full
@@ -49,12 +49,12 @@ Motor powered BVM ventilator, our contribution to the Open Source COVID19 Medica
 ## Additional Parts 
 - 1x motor (from car windows lift or wiper)
 - 1x BVM bag (you can find information about BVM bag in BVM_Ventilator/docs)
-- 4x 7x22mm bearing (the one from most of rollers)
-- 2x M5 rod screw 120mm
-- 1x M5 rod screw 100mm
-- 1x M5 rod screw 40mm
-- 20x M5 bold
-- 8x M5 ring
+- 4x 7x22mm bearing with 8mm screw hole (the one from most of rollers)
+- 2x M8 rod screw 120mm
+- 1x M8 rod screw 100mm
+- 1x M8 rod screw 40mm
+- 20x M8 bold
+- 8x M8 ring
 
 # Useful link:
 
