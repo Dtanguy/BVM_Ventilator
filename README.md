@@ -23,8 +23,6 @@ The other that is still simple but more useful with access to better tech.
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/dtanguy/BVM_Ventilator/master/img/protov2-img5.gif" width="65%">
-	</br>
-	<img src="https://raw.githubusercontent.com/dtanguy/BVM_Ventilator/master/img/protov2-img5.JPG" width="50%">
 </p>
 
 ## Parts for 3D print (BVM_Ventilator/3D/v2/STL):
@@ -56,6 +54,10 @@ The other that is still simple but more useful with access to better tech.
 - 1x M8 rod screw 40mm
 - 20x M8 bold
 - 8x M8 ring
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/dtanguy/BVM_Ventilator/master/img/protov2-img3.jpg" width="100%">
+</p>
 
 # Useful link:
 Open Source COVID19 Medical Supplies - Facebook Group: https://www.facebook.com/groups/670932227050506/
