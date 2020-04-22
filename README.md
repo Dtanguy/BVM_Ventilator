@@ -31,7 +31,7 @@ The other that is still simple but more useful with access to better tech.
 - 1x base_plate_p2.stl
 - 1x base_plate_p1_sym.stl
 - 1x base_plate_p2_sym.stl
-- 1x motor_support_windows_lift.stl OR motor_support_wiper.stl OR any modified version to fit your motor
+- 1x motor_support_windows_lift.stl (Or motor_support_wiper.stl or any modified version to fit your motor)
 - 1x bearing_support.stl
 - 1x moving_arm.stl
 - 1x motor_head.stl
@@ -41,7 +41,7 @@ The other that is still simple but more useful with access to better tech.
 - 2x base_plate_full.dxf
 - 2x moving_arm_A.dxf.dxf
 - 1x moving_arm_B.dxf
-- 1x motor_support_windows_lift.dxf OR motor_support_wiper.dxf OR any modified version to fit your motor
+- 1x motor_support_windows_lift.dxf (Or motor_support_wiper.dxf or any modified version to fit your motor)
 - 1x bearing_support.dxf
 - 1x motor_head.dxf
 
